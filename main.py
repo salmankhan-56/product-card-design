@@ -1,2 +1,0 @@
-print("Welcome to product-card-design")
-print("This is the main program file.")
